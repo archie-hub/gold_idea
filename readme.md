@@ -1,4 +1,4 @@
-# Work in progress not 100% Ready yet.
+# Work in progress not 100% ready yet.
 This is just an example of something I wanted for my own interest. Its not 100% ready yet.. but wanted to get something into github.
 * We use an api to fetch the latest gold/silver spot prices. 
 * The interface allows a user to enter the amount of gold and/or silver they own. 

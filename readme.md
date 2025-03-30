@@ -1,5 +1,7 @@
+## Work in progress not 100% Ready yet.
 
-![Libby](./libby.gif)
+# Video demo
+<img src="./libby.gif" alt="A video of what is working today" width="50%">
 
-
-![Gold tracker image](./imageifquickdoesntwork.png)
+# Image if video doesnt work
+<img src="./imageifquickdoesntwork.png" alt="A little duplication but here if gif above doesnt work" width="50%">

@@ -7,7 +7,7 @@ This is just an example of something I wanted for my own interest. Its not 100% 
 * Sections can be switched on and off with the buttons.
 * Images are mine coins and my daughter.
 
-## Video demo
+## Video demo - Give it a few to load.
 <img src="./libby.gif" alt="A video of what is working today" width="50%">
 
 ## Image if video doesnt work
